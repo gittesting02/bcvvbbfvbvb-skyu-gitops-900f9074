@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bcvvbbfvbvb-staging
+  labels:
+    environment-id: env_dc5a8a82-8d8b-468a-bc41-099bf5bf2df1
+    project-id: project_e9971512-9918-4c0a-999c-24cf449e5268
+    project-name: bcvvbbfvbvb
+    environment-name: staging
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627

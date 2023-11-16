@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bcvvbbfvbvb-dev
+  labels:
+    environment-id: env_98588b40-d8c4-479c-b204-84ba15f6232b
+    project-id: project_e9971512-9918-4c0a-999c-24cf449e5268
+    project-name: bcvvbbfvbvb
+    environment-name: dev
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
